@@ -5,8 +5,7 @@ reservadas respeitando a quantidade proposta, temos a senha digitada pelo usuár
 O objetivo da saída é verificar se a senha digitada pelo usuário satisfaz todas as condições propostas
 pelo desafio.
 
-Nome: Pedro Spido Tanimoto Celestino, RA: 2760482121039
-Nome: Michel Jose da Silva, RA: 2760482221025      
+Nome: Pedro Spido Tanimoto Celestino
 */
 
 #include <stdio.h>
