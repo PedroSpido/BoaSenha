@@ -1,5 +1,5 @@
 /*
-O objetivo de entrada do nosso programa é receber um número inteiro que determina a quantidade
+O objetivo de entrada do programa é receber um número inteiro que determina a quantidade
 de palavras que vão ser compostas no nosso dicionário. Após ter recebido todas as palavras
 reservadas respeitando a quantidade proposta, temos a senha digitada pelo usuário.
 O objetivo da saída é verificar se a senha digitada pelo usuário satisfaz todas as condições propostas
